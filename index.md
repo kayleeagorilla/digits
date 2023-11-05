@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![landing-digits.png](doc%2Flanding-digits.png)
 
 digits is a Meteor application based on the [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) template. 

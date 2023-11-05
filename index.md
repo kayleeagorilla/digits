@@ -69,10 +69,10 @@ The landing page is the first thing you see when you open the app. It contains a
 ### Login
 
 By clicking on the "Login" button located in the top right, you will be given the chose to "Sign in" using the given credentials previously mentioned or "Sign up" by registering your own account.
-##### Sign In Page:
+#### Sign In Page:
 <img src="doc/sign-in-digits.png">
 
-##### Sign Out Page:
+#### Sign Out Page:
 <img src="doc/sign-up-digits.png">
 
 
